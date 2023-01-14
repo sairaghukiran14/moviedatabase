@@ -1,5 +1,6 @@
 LINK:  https://moviedatabase-w4ck.vercel.app/
 
+Deployed in Vercel App
 
 # Getting Started with Create React App -----
 
